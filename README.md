@@ -1,5 +1,7 @@
 # NTL-DS-062722's Cohort Repository!
 
+Ashli's Version is the best version of all time!
+
 A repository for all lecture, review, or other resources for the Flatiron School's Live Data Science 022122 Cohort.
 
 ![uh-oh](https://media.giphy.com/media/igDIvcIMMGIne/giphy.gif)
